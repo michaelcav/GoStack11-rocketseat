@@ -2,6 +2,5 @@
 
 <center>
 # Repositório de Aulas Bootcamp GoStack 11 - RocketSeat
-Esse repositório contém as aulas e códigos desenvolvidos por mim (Thiago Cedran Santos) durante as aulas do curso GoStack 11 da Rocketseat
 </center>
 
